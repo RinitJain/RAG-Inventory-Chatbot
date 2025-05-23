@@ -1,4 +1,4 @@
-from mongodb import inventory
+from backend.db.mongodb import inventory
 
 if __name__ == "__main__":
     sample_products = [
